@@ -1,0 +1,22 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Demo project for code reviews",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/manchicken/code-review-proofs.git"
+  },
+  "author": "Mike Stemle <manchicken@manchicken.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manchicken/code-review-proofs/issues"
+  },
+  "homepage": "https://github.com/manchicken/code-review-proofs#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
